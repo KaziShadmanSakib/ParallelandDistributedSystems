@@ -1,0 +1,13 @@
+exe_time.txt contains cpu execution time in the following format:
+    ts - serial time
+    p    tp - parallel time using strategy 1 Row and Column wise one to all broadcast
+    p    tp - parallel time using strategy 2 pipelining
+    p  is the number of worker process
+
+speedup = Ts(n)/Tp(n,p)
+
+Two graph lines : parallelFloyd and pipelineFloyd
+
+Need openmpi, python3, numpy, matplotlib,
+
+Just ./run.sh

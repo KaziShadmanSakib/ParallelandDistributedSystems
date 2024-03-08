@@ -1,0 +1,8 @@
+1) Multiple clients running parallely.
+2) Different jokes for multiple clients.
+3) The server runs perfectly if a client terminates.
+4) Server runs out of jokes.
+5) Clients choose to not listen to any more jokes.
+6) Wrong msg format given by the client.
+7) Multiple clients maintains synchronization.
+8) Using different machine for server and clients.

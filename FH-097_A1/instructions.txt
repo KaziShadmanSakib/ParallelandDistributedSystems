@@ -1,0 +1,5 @@
+Instructions:
+
+1) Navigate to the directory where this file is located using your terminal.
+2) In your terminal, enter the command 'make all' and press the Enter key.
+3) Execute the server by running "./server" in one terminal, and launch the client in another terminal using "./client".

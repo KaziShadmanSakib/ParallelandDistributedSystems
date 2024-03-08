@@ -1,0 +1,8 @@
+Own Machine:
+Create a Virtual Environment: python3 -m venv myenv
+Activate the Virtual Environment: source myenv/bin/activate
+Install matplotlib: pip install matplotlib
+
+Clean: make clean
+Compile: make all
+Run: make run_all
